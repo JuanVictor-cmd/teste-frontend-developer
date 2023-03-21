@@ -1,0 +1,33 @@
+
+/*Main*/
+    
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)) ,url(../assets/img2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.text-main h1{
+    font-weight: 600;
+    color: white;
+    font-size: 3rem;
+    margin-right: 42rem;
+    margin-left: 2rem;
+    text-shadow: 1px 1px 1px black;
+}
+
+.text-main p{
+    font-weight: 300;
+    color: white;
+    font-size: 1.1rem;
+    margin-right: 42rem;
+    margin-left: 2rem;
+    text-shadow: 1px 1px 1px black;
+}

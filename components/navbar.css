@@ -1,0 +1,38 @@
+
+/* Navbar */
+.cabecalho{
+    background: #F5F5F5;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 5;
+}
+
+.header-txt a{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    color: black;
+    padding: 0.5rem;
+    text-decoration: none;
+}
+
+.header-button button{
+    border-radius: 4px;
+    border: solid 1px black;
+    padding: 12px;
+    box-shadow: 0px 20px 16px -16px rgb(0, 0, 0);
+}
+
+button:hover{
+    cursor: pointer;
+    background: rgb(205, 205, 205);
+}
+
+.header-txt a:hover{
+    color: #FF914D;
+    transition: all ease-in-out 0.3s
+}

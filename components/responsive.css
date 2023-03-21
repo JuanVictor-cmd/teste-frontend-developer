@@ -1,0 +1,134 @@
+
+/* Mobile*/
+
+@media (max-width: 965px){
+    .text-main h1{
+        font-family: 'Poppins', sans-serif;
+        color: #FF914D;
+        font-weight: 600;
+        font-size: 2rem;
+        margin: 0 auto;
+        text-shadow: 2px 2px 2px black;
+    }
+    
+    .text-main p{
+        font-family: 'Poppins', sans-serif;
+        font-weight: 300;
+        color: white;
+        font-size: 1rem;
+        margin: 0 auto;
+        padding-top: 5px;
+        text-shadow: 2px 2px 2px black;
+    }
+    .container-form {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        top: 1rem;
+        right: 0rem;
+        font-family: 'Poppins';
+        font-weight: 600;
+        width: 20rem;
+    }
+
+    .text-sobre h2 {
+        color: #FF914D;
+        font-size: 45px;
+        font-weight: 600;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 600;
+    }
+    
+    .container-sobre img{
+        display: none;
+    }
+
+    .header-button{
+        display: none;
+    }
+    
+    .header-txt a{
+        display: none;
+    }
+    .header-logo{
+        margin: 0 auto;
+    }
+
+    .wrapper-h2{
+        font-size: 2rem;
+    }
+    
+    .wrapper{
+        display: grid;
+        grid-template-columns: auto auto;
+        max-width: 1180px;
+        height: 100%;
+        margin: 0 auto;
+        gap: 0.8rem;
+        margin-top: 5rem;
+        
+    }
+    
+    .wrapper h3{
+        font-size: 2rem;
+        font-family: sans-serif;
+    }
+    
+    .wrapper p{
+        font-family: sans-serif;
+        font-size: 1.3rem;
+    }
+    
+    .wrapper h3{
+        font-size: 1.3rem;
+        font-family: sans-serif;
+    }
+
+    .wrapper p{
+        font-family: sans-serif;
+        font-size: 1rem;
+    }
+
+    .faq-list{
+        margin-top: 22px;
+    }
+  
+    .faq-question, .faq-answer{
+        font-size: 18px;
+    }
+    
+    .faq-question{
+        padding: 16px 22px;
+    }
+    
+    .faq-question::after{
+        background-size: 15px;
+    }
+    
+    .faq-answer > div{
+        padding: 21px;
+    }
+
+    .card-box{
+        display: none;
+    }
+
+    .text-box h3{
+        color: #FF914D;
+    }
+
+    .header-button-footer{
+        display: none;
+    }
+
+    .container-footer{
+        flex-direction: column;
+    }
+
+    .text-footer{
+        font-size: 0.8rem;
+    }
+
+}
