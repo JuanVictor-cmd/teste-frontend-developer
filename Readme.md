@@ -30,11 +30,12 @@ Computador Desktop comum
 
 ## 🛠️ Construído com
 
-HTML, CSS e JavaScript
+HTML, CSS, JavaScript e Figma
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Linguagem de Marcação
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/css) - Linguagem de Estilização
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Linguagem de Programação
+- [Figma](https://www.figma.com) - Prototipagem de Design
 
 ## ✒️ Autores
 
@@ -42,7 +43,7 @@ HTML, CSS e JavaScript
 
 ## 🎁 Expressões de gratidão
 
-Esse foi um projeto onde tive que fazer uma landing page responsiva utilizando somente HTML, CSS e JavaScript. Foi muito gratificante trabalhar no design do site e implentar isso no código; meu maior desafio foi a responsividade mas sério, eu pude melhorar muito isso graças a esse projeto que me fez queimar a cabeça por 2 dias. Me sinto muito feliz de ter realizado esse projeto 😊.
+Esse foi um projeto onde tive que fazer uma landing page responsiva utilizando somente HTML, CSS e JavaScript. Foi muito gratificante trabalhar no design do site pelo Figma e implentar isso no código; meu maior desafio foi a responsividade mas sério, eu pude melhorar muito isso graças a esse projeto que me fez queimar a cabeça por 2 dias. Me sinto muito feliz de ter realizado esse projeto 😊.
 
 ---
 
