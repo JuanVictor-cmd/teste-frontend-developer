@@ -10,7 +10,7 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 
 <h2>Clique Aqui ⬇</h2> 
 Landing Page em tempo real:
-https://relogio-digital-juanvictor-cmd.netlify.app
+https://projetil.netlify.app
 
 ### 📋 Pré-requisitos
 
