@@ -30,7 +30,7 @@ Computador Desktop comum
 
 ## 💻 Widescreen do Site
 
-(https://raw.githubusercontent.com/juanvictor-cmd/teste-frontend-developer/main/widescreen/widescreen.png)
+<img src="./widescreen/widescreen.png">
 
 ## 🛠️ Construído com
 
