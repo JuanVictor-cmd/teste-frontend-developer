@@ -30,7 +30,7 @@ Computador Desktop comum
 
 ## 💻 Widescreen do Site
 
-<img src="./widescreen/widescreen.png">
+<img src="../widescreen/widescreen.png">
 
 ## 🛠️ Construído com
 
