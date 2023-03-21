@@ -28,10 +28,6 @@ Computador Desktop comum
 2- Após isso dê dois cliques no arquivo index.html e pronto!
 ```
 
-## 💻 Widescreen do Site
-
-<img src="../widescreen/widescreen.png">
-
 ## 🛠️ Construído com
 
 HTML, CSS e JavaScript
