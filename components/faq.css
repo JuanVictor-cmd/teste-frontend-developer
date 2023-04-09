@@ -37,7 +37,7 @@
     display: block;
     width: 20px;
     height: 20px;
-    background: url("./img/fechar.svg") no-repeat center center;
+    background: url("../assets/fechar.svg") no-repeat center center;
     transform: rotate(45deg);
     }
     
