@@ -48,10 +48,39 @@
     .header-button{
         display: none;
     }
-    
-    .header-txt a{
+
+    header{
+        justify-content: space-between;
+    }
+
+    header .header-txt{
         display: none;
     }
+
+    header .header-txt.ativado{
+        background-color: whitesmoke;
+        position: absolute;
+        display: grid;
+        top: 60px;
+        z-index: 5;
+        padding: 30px;
+        font-size: 2rem;
+        border-radius: 0 0 4px 4px;
+        right: .5px;
+        animation: sobreSecao .8s ease-in-out forwards;
+    }
+
+    header .header-txt li a{
+        width: 0px;
+        height: 0px;
+        font-size: 1rem;
+    }
+
+    header i{
+        font-size: 2rem;
+        padding: 10px;
+    }
+    
     .header-logo{
         margin: 0 auto;
     }
@@ -131,4 +160,10 @@
         font-size: 0.8rem;
     }
 
+}
+
+@media (min-width: 992px){
+    #bar{
+        display: none;
+    }
 }

@@ -33,8 +33,8 @@ class Accordion {
   const ativaMenu = document.querySelector('.fa-bars');
   const navMenu = document.querySelector('header .header-txt');
 
-ativaMenu.addEventListener('click', ()=>{
-    ativaMenu.classList.toggle('fa-x')
-    navMenu.classList.toggle('ativado')
-})
+    ativaMenu.addEventListener('click', ()=>{
+      ativaMenu.classList.toggle('fa-x')
+      navMenu.classList.toggle('ativado')
+  })
   

@@ -20,3 +20,13 @@
         transform: translateY(0px);
     }
 }
+
+@keyframes sobreSecao{
+    from{
+        transition: .5s;
+        transform: translate3d(60px, 0, 0);
+    }
+    to{
+        transform: translate3d(0, 0, 0);
+    }
+}
