@@ -27,4 +27,14 @@ class Accordion {
   
   const accordion = new Accordion(".faq-question");
   accordion.init();
+
+  // Navbar
+
+  const ativaMenu = document.querySelector('.fa-bars');
+  const navMenu = document.querySelector('header .header-txt');
+
+ativaMenu.addEventListener('click', ()=>{
+    ativaMenu.classList.toggle('fa-x')
+    navMenu.classList.toggle('ativado')
+})
   
