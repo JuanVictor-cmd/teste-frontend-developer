@@ -63,7 +63,9 @@
         font-size: 2rem;
         border-radius: 0 0 4px 4px;
         right: .5px;
-        animation: sobreSecao .8s ease-in-out forwards;
+        width: 100%;
+        text-align: center;
+        animation: desceSecao .9s ease-in-out forwards;
     }
 
     header .header-txt li a{
@@ -218,7 +220,9 @@
         font-size: 3rem;
         border-radius: 0 0 4px 4px;
         right: .5px;
-        animation: sobreSecao .8s ease-in-out forwards;
+        animation: desceSecao .9s ease-in-out forwards;
+        width: 100%;
+        text-align: center;
     }
 
     header .header-txt li a{
